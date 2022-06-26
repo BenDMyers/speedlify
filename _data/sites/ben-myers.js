@@ -1,6 +1,6 @@
 module.exports = {
 	name: 'benmyers.dev', // optional, falls back to object key
-	description: 'Ben’s Personal web site',
+	description: 'Ben’s personal site',
 	skip: false,
 	options: {
 		frequency: 60 * 23, // 23 hours
@@ -13,6 +13,7 @@ module.exports = {
 	urls: [
 		'https://benmyers.dev',
 		'https://benmyers.dev/about/',
+		'https://benmyers.dev/appearances/',
 		// Popular Posts
 		'https://benmyers.dev/blog/on-the-dl/',
 		'https://benmyers.dev/blog/eleventy-data-cascade/',
